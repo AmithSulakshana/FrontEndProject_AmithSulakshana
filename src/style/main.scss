@@ -1,0 +1,28 @@
+
+@import '../global.scss';
+@import './variable.scss';
+
+//home
+@import '../pages/home/Home.scss';
+
+//Navbar
+@import '../sharedComponent/navbar/Navbar.scss';
+
+
+//loging
+@import '../pages/loging/Loging.scss';
+
+//avatar
+@import '../sharedComponent/avatar/Avatar.scss';
+
+//users
+@import '../pages/users/Users.scss';
+
+//usecard
+@import '../sharedComponent/userCard/UserCard.scss';
+
+//search
+@import '../pages/search/Search.scss';
+
+//footer
+@import '../sharedComponent/footer/Footer.scss';

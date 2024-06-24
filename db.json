@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Amith Sulakshana",
+      "email": "amith@gmail.com",
+      "password": "amith@97",
+      "role": "admin",
+      "phone": "07656582",
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "name": "Kavindu lakshan",
+      "email": "kavindu@gmail.com",
+      "password": "kavindu@97",
+      "role": "user",
+      "phone": "07656582",
+      "gender": "male"
+    }
+  ],
+  "allUsers": [
+    {
+      "name": "Amith Sulakshana",
+      "email": "amith@gmai.com",
+      "phone": "075168447",
+      "gender": "Male",
+      "imageUrl": "https://fastly.picsum.photos/id/25/5000/3333.jpg?hmac=yCz9LeSs-i72Ru0YvvpsoECnCTxZjzGde805gWrAHkM",
+      "id": "1"
+    },
+    {
+      "id": "1e08",
+      "name": "Kavindu Lakshan",
+      "email": "kavindu@gmail.com",
+      "phone": "0788659777",
+      "gender": "Male",
+      "imageUrl": "https://fastly.picsum.photos/id/41/1280/805.jpg?hmac=W9CWeYdlZisqEfhjuODl83T3lCXAqjUZrOe9iMFPYmI"
+    },
+    {
+      "id": "be90",
+      "name": "Navindu",
+      "email": "navindu@gmail.com",
+      "phone": "0416168449",
+      "gender": "Male",
+      "imageUrl": "https://fastly.picsum.photos/id/37/2000/1333.jpg?hmac=vpYLNsQZwU2szsZc4Uo17cW786vR0GEUVq4icaKopQI"
+    },
+    {
+      "name": "Samuditha disanayake",
+      "email": "sulakshana97@gmail.com",
+      "phone": "076565825",
+      "gender": "Male",
+      "imageUrl": "https://fastly.picsum.photos/id/41/1280/805.jpg?hmac=W9CWeYdlZisqEfhjuODl83T3lCXAqjUZrOe9iMFPYmI",
+      "id": "210d"
+    }
+  ]
+}
